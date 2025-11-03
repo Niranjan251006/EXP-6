@@ -36,7 +36,9 @@ I. Connect the multimeter at the output of kit..
 OBSERVATION TABLE and GRAPH:
 ![WhatsApp Image 2025-11-03 at 21 38 16_a536162b](https://github.com/user-attachments/assets/2ff98412-7fbc-4838-a5f3-8b10d9e19c9a)
 
+<img width="1495" height="856" alt="BEEE EXP6 SS1" src="https://github.com/user-attachments/assets/f7030183-1395-4f14-ab5f-c9cc054f67f4" />
 
+<img width="1486" height="835" alt="BEEE EXP6 SS2" src="https://github.com/user-attachments/assets/3fa0a8f8-3f46-4c4c-9d14-df3d1ea0c6ec" />
 
 
 
